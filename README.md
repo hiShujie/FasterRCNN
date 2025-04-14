@@ -1,7 +1,6 @@
 # 🚀 Fast R-CNN on PASCAL VOC 
 ​**​PyTorch Implementation of Fast R-CNN for Object Detection​**​  
-
-🔥 *"Where objects meet speed – detect with confidence!"*  
+>THU DA PRML 2023fall lecture project
 
 ---
 
@@ -16,8 +15,6 @@
 ## 📦 Key Features  
 - 🚄 ​**​3x Faster Training​**​ - Achieve 68.9% mAP on VOC07 test set in 4.5 hrs (single RTX 3090)
 - 🧩 ​**​Modular Design​**​ - Plug-and-play ROI pooling & classifier modules
-- 📊 ​**​Full Metrics​**​ - Integrated AP@IoU, precision-recall curves, confusion matrix
-- 🎨ization Tools​**​ - Bounding box debugger with class confidence heatmaps
 - 📂 ​**​VOC Ready​**​ - Auto-download & preprocess scripts for PASCAL VOC 2002012
 
 ---
